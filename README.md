@@ -1,11 +1,11 @@
-# Bookly - Sistema de Biblioteca
+# Booksy - Sistema de Biblioteca
 
 <div align="center">
  
  <img width="2816" height="1536" alt="logo" src="https://github.com/user-attachments/assets/ee4008e6-4367-4e61-8415-694452d33a5c" />
 
 
-O **Bookly** é um sistema interativo de gerenciamento de biblioteca desenvolvido para web.
+O **Booksy** é um sistema interativo de gerenciamento de biblioteca desenvolvido para web.
 
 ## Funcionalidades
 
